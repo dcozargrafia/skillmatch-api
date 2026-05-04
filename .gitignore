@@ -112,6 +112,8 @@ yarn.lock
 /.atl/
 /memory/
 /CLAUDE.md
+/.sisyphus/
+/AGENTS.md
 package-lock.json
 package-lock.json.*
 
